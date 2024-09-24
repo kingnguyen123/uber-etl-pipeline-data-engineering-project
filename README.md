@@ -27,7 +27,8 @@
 
 ## Architecture
 
-![Architecture Diagram](https://github.com/kingnguyen123/uber-etl-pipeline-data-engineering-project/blob/main/Architecture.png)
+[![Architecture Diagram](https://github.com/kingnguyen123/uber-etl-pipeline-data-engineering-project/blob/main/Architecture.png)](https://github.com/kingnguyen123/uber-etl-pipeline-data-engineering-project/blob/main/Architecture.pdf)
+
 
 
 
