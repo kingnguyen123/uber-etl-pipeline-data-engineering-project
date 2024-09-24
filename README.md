@@ -23,3 +23,4 @@
 >Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
+>data_model.jpeg
