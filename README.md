@@ -25,3 +25,8 @@
 ## Data Model
 ![Data Model](https://raw.githubusercontent.com/kingnguyen123/uber-etl-pipeline-data-engineering-project/main/data_model.jpeg)
 
+## Architecture
+
+![Architecture](https://github.com/kingnguyen123/uber-etl-pipeline-data-engineering-project/blob/main/Architecture.pdf)
+
+
