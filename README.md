@@ -5,14 +5,17 @@
 >This project focuses on performing data analytics on Uber trip data using various tools and technologies on Amazon Web Services(AWS). The project demonstrates the use of S3 Bucket, Python, EC2, Apache Airflow, Redshift, and Power BI for an end-to-end data engineering and analytics workflow. 
 
 ## Architecture
-![Architecture diagramming](https://github.com/kingnguyen123/uber-etl-pipeline-data-engineering-project/blob/main/Architecture.pdf)
+The architecture of the project is as follows:
+![Architecture diagramming](https://github.com/kingnguyen123/uber-etl-pipeline-data-engineering-project/blob/main/Architecture.png)
 
 ## Technology Used
->Programming Language - Python
->Amazon Web Services
->s3 bucket
->EC2
->Redshift
+
+- **Programming Language**: Python
+- **Amazon Web Services(AWS)**:
+  - S3 Bucket
+  - EC2
+  - Redshift
+ - **Batch workflow orchestration**:[Airflow](https://airflow.apache.org/)
 >Power BI
 >Airflow
 
